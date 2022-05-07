@@ -1,6 +1,9 @@
 NOTE: WHILE PLAYING, PLAYERS CAN ONLY EITHER DO AUTOMATIC SEARCH OR MANUAL
 i.e. pressing "b" or "d" after making a manual move will do nothing and vice versa
 
+To start, install the two jar files and add them to the classpath
+
+
 Directions for playing:
 1. Up down left right does exactly what you think. Can't go over walls.
 2. Press X to make a new maze
